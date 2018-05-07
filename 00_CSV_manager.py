@@ -1,6 +1,5 @@
 """
 Reading and writing CSV files using lists
-Python Data Analysis
 """
  
 import csv
@@ -80,3 +79,5 @@ If newline='' is not specified, newlines embedded inside quoted fields will not 
 and on platforms that use \r\n line endings on write an extra \r will be added.
 It should always be safe to specify newline=''
 """
+
+"Processing tabular data through the CSV module, Python Data Analysis course, Rice University"
